@@ -38,13 +38,11 @@
 </div>
 
 ---
+### 📊 My GitHub Contributions
+<img src="https://raw.githubusercontent.com/Samir23-CS/Samir23-CS/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
 
 <p align="center">
   ⚡ I build custom SIEMs, perform pentests, automate security tasks with Python, and constantly explore new tech in cybersecurity. Let's secure the digital world together!
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samir23-CS/Samir23-CS/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samir23-CS/Samir23-CS/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Samir23-CS/Samir23-CS/output/pacman-contribution-graph.svg">
-</picture>
+
