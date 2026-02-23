@@ -1,53 +1,44 @@
 <h1 align="center">Hey 👋, I'm Samir Mestry!</h1>
-<p align="center">Cybersecurity Enthusiast | Ethical Hacker | AI & ML Explorer</p>
+<p align="center">🚀 Cybersecurity Enthusiast | Pentester | Python Developer | Tech Explorer</p>
 
 ---
 
-### 🛠️ Skills & Tools
-
+### 💻 Tech Stack & Skills
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
-  <img width="12" />
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
-  <img width="12" />
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=burpsuite" height="60" alt="Burp Suite" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="PowerShell" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=burp" height="60" alt="Burp Suite" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL" />
+</div>
+
+---
+
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SamirMestry&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SamirMestry&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophies" />
 </div>
 
 ---
 
 ### 📫 Connect with Me
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/samir-mestry/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" />
+  <a href="https://www.linkedin.com/in/samir-mestry/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25"/>
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="25" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula" height="150" />
 </div>
 
 ---
 
 <p align="center">
-  “Learning never exhausts the mind.” – Leonardo da Vinci
+  ⚡ I build custom SIEMs, perform pentests, automate security tasks with Python, and constantly explore new tech in cybersecurity. Let's secure the digital world together!
 </p>
